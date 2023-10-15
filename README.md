@@ -1,12 +1,14 @@
-### Hello World! Eu sou o desenvolvedor Lennon Fonseca. ✋
+### Hello World!🌍 Eu sou o desenvolvedor Lennon Fonseca. 💻✋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleuuon/)
+👉 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleuuon/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leuuon/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leuuon/)
 
 ![devleuuon GitHub stats](https://github-readme-stats.vercel.app/api?username=devleuuon&show_icons=true&theme=radical)
 
-## Tecnologias
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleuuon)](https://github.com/devleuuon/github-readme-stats)
+
+## Tecnologias 🚀
 
 <div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -23,3 +25,9 @@
 <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
 <img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy">
 </div>
+<br>
+
+## Contato 📩
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lennonfonsecaa@gmail.com
+
+![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  lennonfonsecaa@hotmail.com
