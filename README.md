@@ -28,7 +28,7 @@
 
 ● Estou iniciando a carreira na área da Programação e buscando uma oportunidade como Desenvolvedor.
 
-● Já conclui através do Senai o curso de Desenvolvedor Front-end. Atualmente estou cursando para Desenvolvedor Full Stack na Rocketseat e Engenharia de Software na Unopar com previsão de término para o primeiro semestre de 2025.
+● Já conclui através do Senai o curso de Desenvolvedor Front-end. Atualmente estou cursando Desenvolvimento Full Stack na Rocketseat e Engenharia de Software na Unopar com previsão de término para o primeiro semestre de 2025.
 
 ● Tenho bons conhecimentos em Javascript, CSS, HTML, React, Angular, Bootstrap, Figma, Git/Github. 
 
