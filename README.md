@@ -26,7 +26,14 @@
 
 ## Sobre ✏️ <br>
 
-Estou iniciando a carreira na área da tecnologia e buscando a primeira oportunidade como programador. Estou com muita vontade de aprender e desenvolver uma carreira de sucesso. Já conclui através do Senai o curso de Desenvolvedor Front-end. Atualmente estou cursando Desenvolvimento Full Stack na Rocketseat e Engenharia de Software na Unopar com previsão de término para o primeiro semestre de 2025. Sou uma pessoa muito tranquila, responsável, comprometido, proativo e tenho ótimo relacionamento com os colegas e clientes. Estou em busca de desafios e irei através da programação conquistar todos os meus objetivos e sonhos.
+● Estou iniciando a carreira na área da Programação e buscando uma oportunidade como Desenvolvedor.
+
+● Já conclui através do Senai o curso de Desenvolvedor Front-end. Atualmente estou cursando para Desenvolvedor Full Stack na Rocketseat e Engenharia de Software na Unopar com previsão de término para o primeiro semestre de 2025.
+
+● Tenho bons conhecimentos em Javascript, CSS, HTML, React, Angular, Bootstrap, Figma, Git/Github. 
+
+● Sou uma pessoa muito tranquila, responsável, comprometido, proativo e tenho ótimo relacionamento com os colegas e clientes. Estou em busca de desafios e irei através da programação conquistar todos os meus objetivos e sonhos.
+
 
 ## Contato 📩
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lennonfonsecaa@gmail.com
