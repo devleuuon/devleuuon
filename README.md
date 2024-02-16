@@ -1,4 +1,4 @@
-### Hello World!🌍 Eu sou o desenvolvedor Lennon Fonseca. 💻✋
+### Hello World!🌍 I am the developer Lennon Fonseca. 💻✋
 
 👉 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleuuon/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leuuon/)
@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleuuon)](https://github.com/devleuuon/github-readme-stats)
 
-## Tecnologias 🚀
+## technologies 🚀
 
 <div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -24,18 +24,18 @@
 </div>
 <br>
 
-## Sobre ✏️ <br>
+## About ✏️ <br>
 
-● Estou iniciando a carreira na área da Programação e buscando uma oportunidade como Desenvolvedor.
+● I started my career in Programming in 2022 and am looking for an opportunity as a Web Developer.
 
-● Já conclui através do Senai o curso de Desenvolvedor Front-end. Atualmente estou cursando Desenvolvimento Full Stack na Rocketseat e Engenharia de Software na Unopar com previsão de término para o primeiro semestre de 2025.
+● Already completed the Front-end Developer course through Senai. I am currently studying Full Stack Development at Rocketseat and Software Engineering at Unopar, expected to finish in the first half of 2025.
 
-● Tenho bons conhecimentos em Javascript, CSS, HTML, React, Angular, Bootstrap, Figma, Git/Github. 
+● I have good knowledge of Javascript, CSS, HTML, React Js, Node Js, Angular, Bootstrap, Figma, Git/Github.
 
-● Sou uma pessoa muito tranquila, responsável, comprometido, proativo e tenho ótimo relacionamento com os colegas e clientes. Estou em busca de desafios e irei através da programação conquistar todos os meus objetivos e sonhos.
+● I am a very calm, responsible, committed, proactive person and I have great relationships with colleagues and clients. I'm looking for challenges and I will achieve all my goals and dreams through programming.
 
 
-## Contato 📩
+## Contact 📩
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lennonfonsecaa@gmail.com
 
 ![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  lennonfonsecaa@hotmail.com
